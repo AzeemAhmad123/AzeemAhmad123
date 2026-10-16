@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Azeem Ahmad — Computer Vision and Full Stack Development</title>
+  <desc id="desc">A navy and teal banner with a geometric computer vision motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a172b"/><stop offset="1" stop-color="#102d3a"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2b5062" stroke-width="0.6" opacity="0.3"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="710" width="490" height="320" fill="url(#grid)"/>
+  <rect x="48" y="48" width="6" height="24" rx="3" fill="#5eead4"/>
+  <text x="70" y="66" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#5eead4">SOFTWARE ENGINEER</text>
+  <text x="48" y="144" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" fill="#f8fafc">Azeem Ahmad</text>
+  <text x="50" y="191" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#d2e1ed">Computer vision. Useful software.</text>
+  <path d="M50 222H646" stroke="#315366"/>
+  <text x="50" y="264" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.3" fill="#a5bdcd">PYTHON  /  YOLO  /  OPENCV  /  FULL STACK</text>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="970" cy="156" r="105" stroke="#285369" stroke-width="1.5"/>
+    <circle cx="970" cy="156" r="70" stroke="#3d7483" stroke-width="1.5"/>
+    <path d="M857 98V58H897 M1043 58H1083V98 M1083 214V254H1043 M897 254H857V214" stroke="#5eead4" stroke-width="5"/>
+    <rect x="925" y="111" width="90" height="90" rx="12" stroke="#6ee7dd" stroke-width="2"/>
+    <path d="M900 156H1040 M970 86V226" stroke="#3d7483" stroke-width="1.5"/>
+    <path d="M883 209L928 173L970 156L1006 130L1058 103" stroke="#79b8ff" stroke-width="3"/>
+  </g>
+  <g fill="#5eead4"><circle cx="928" cy="173" r="5"/><circle cx="970" cy="156" r="7"/><circle cx="1006" cy="130" r="5"/></g>
+</svg>
