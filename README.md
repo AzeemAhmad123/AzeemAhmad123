@@ -1,75 +1,102 @@
+<!-- Profile content and visual assets are maintained in this repository. -->
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Azeem Ahmad — Software Engineer. Computer vision. Useful software." width="100%" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Azeem Ahmad — Software Engineer. I build software that sees. Computer vision, applied AI and full-stack development." />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-gamma-lake-28.vercel.app/"><strong>Explore my portfolio</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.fiverr.com/azeem_ahmadkhan"><strong>Work with me on Fiverr</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/AzeemAhmad123?tab=repositories"><strong>Browse my code</strong></a>
+  <a href="https://portfolio-gamma-lake-28.vercel.app/"><img src="./assets/portfolio-link.svg" height="42" alt="Explore my portfolio" /></a>
+  &nbsp;
+  <a href="https://www.fiverr.com/azeem_ahmadkhan"><img src="./assets/fiverr-link.svg" height="42" alt="Work with me on Fiverr" /></a>
+  &nbsp;
+  <a href="https://github.com/AzeemAhmad123?tab=repositories"><img src="./assets/code-link.svg" height="42" alt="Explore my code" /></a>
 </p>
 
-## Hi, I'm Azeem
+### Hey, I'm Azeem 👋
 
-I'm a software engineer based in Pakistan, building **computer vision tools and full-stack web applications**. My work connects Python and video-processing pipelines with APIs, dashboards, and interfaces people can use.
+I'm a software engineer based in **Pakistan**, working where **computer vision, applied AI, and web development** meet. I connect models and data pipelines to the APIs, dashboards, and interfaces that make them useful.
 
-I enjoy turning a complex requirement into a practical workflow: understand the problem, build a focused solution, and make the result easy to review and maintain.
+Right now, I'm extending a **basketball video-analysis pipeline** and integrating it with a scouting workflow. My portfolio also includes session replay, camera-monitoring dashboards, and a team-built multimodal search project.
 
-### What I work on
-
-- **Computer vision:** object detection, tracking, video processing, and analysis workflows with Python, YOLO, OpenCV, and FastAPI.
-- **Web applications:** React and Next.js interfaces, TypeScript, backend APIs, and database integration.
-- **Data products:** session replay, analytics dashboards, and tools that make data easier to explore.
+<p align="center">
+  <img src="./assets/focus-areas.svg" width="100%" alt="Computer vision: detection, tracking and video analysis. Applied AI: semantic search and multimodal workflows. Full-stack: interfaces, APIs and analytics dashboards." />
+</p>
 
 ## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/AzeemAhmad123/UX-Analytical-Tool">Session Replay &amp; Analytics</a></h3>
-<p>A full-stack application for exploring user sessions, heatmaps, funnels, and interaction data.</p>
-<p><sub>React · TypeScript · Express · Supabase · rrweb</sub></p>
+<a href="https://portfolio-gamma-lake-28.vercel.app/">
+<img src="https://raw.githubusercontent.com/AzeemAhmad123/Portfolio/main/assets/media/basketball-poster.jpg" width="100%" alt="Actual frame from the basketball video-analysis demo" />
+</a>
+<h3>🏀 Basketball Video Analysis</h3>
+<p>Connecting player and ball tracking to court views, event timelines, and structured scouting outputs.</p>
+<p><strong>My focus:</strong> pipeline extensions &amp; FastAPI integration. Ongoing work.</p>
+<p><sub>Python · YOLOv8 · ByteTrack · OpenCV · EasyOCR</sub></p>
+<p><a href="https://portfolio-gamma-lake-28.vercel.app/"><strong>Watch the demo ↗</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/AzeemAhmad123/Portfolio">Project Portfolio</a></h3>
-<p>Case studies and video walkthroughs of my computer vision, analytics, and full-stack work.</p>
-<p><sub>HTML · CSS · JavaScript · Vercel</sub></p>
+<a href="https://github.com/AzeemAhmad123/UX-Analytical-Tool">
+<img src="https://raw.githubusercontent.com/AzeemAhmad123/Portfolio/main/assets/media/session-replay-poster.jpg" width="100%" alt="Actual screen from the session replay and analytics walkthrough" />
+</a>
+<h3>▶ Session Replay &amp; Analytics</h3>
+<p>From browser event capture to replay: a full-stack workflow for exploring how people use a product.</p>
+<p><strong>My focus:</strong> React UI, event recording, backend ingestion &amp; API validation.</p>
+<p><sub>React · TypeScript · Node.js · Supabase · rrweb</sub></p>
+<p><a href="https://github.com/AzeemAhmad123/UX-Analytical-Tool"><strong>Explore the code ↗</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/AzeemAhmad123/FlowerShop">FlowerShop</a></h3>
-<p>An eCommerce application with a storefront, shopping cart, customer accounts, and admin workflows.</p>
-<p><sub>C# · ASP.NET Core MVC · Entity Framework · SQL Server</sub></p>
+<h3>✦ Lumina — Multimodal Search</h3>
+<p>A team final-year project for finding information inside documents, images, audio, and video using natural-language queries.</p>
+<p><sub>Python · FastAPI · FAISS · Sentence Transformers · Whisper</sub></p>
+<a href="https://portfolio-gamma-lake-28.vercel.app/"><strong>Read the case study ↗</strong></a>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/AzeemAhmad123/Machine-Learning-Projects">Machine Learning Practice</a></h3>
-<p>A learning project exploring COVID-19 time-series data, visualization, and forecasting with Prophet.</p>
-<p><sub>Python · Pandas · Plotly · Prophet · Jupyter</sub></p>
+<h3>🌸 FlowerShop</h3>
+<p>An eCommerce application connecting product browsing, shopping carts, customer accounts, and admin workflows.</p>
+<p><sub>C# · ASP.NET Core MVC · Entity Framework · SQL Server</sub></p>
+<a href="https://github.com/AzeemAhmad123/FlowerShop"><strong>Explore the code ↗</strong></a>
 </td>
 </tr>
 </table>
 
-### Computer vision in practice
+<sub>The basketball project extends the open-source work of <a href="https://github.com/HanaFEKI/AI_BasketBall_Analysis_v0">Hana FEKI / ENSTA Paris</a>. The portfolio explains the foundation, my contribution, and the current scope.</sub>
 
-My portfolio includes an **ongoing basketball video-analysis project**, alongside camera-monitoring and review dashboards. On the basketball project, my work focuses on pipeline extensions and API integration, using YOLOv8, ByteTrack, OpenCV, EasyOCR, and FastAPI.
+## My toolkit
 
-The basketball pipeline builds on an existing open-source foundation, **AI_BasketBall_Analysis_v1 by Hana FEKI / ENSTA Paris**. My portfolio explains my contribution and shows the current demo.
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,opencv,fastapi,react,nextjs,ts,js,tailwind&amp;theme=dark" alt="Python, OpenCV, FastAPI, React, Next.js, TypeScript, JavaScript and Tailwind CSS" /></a>
+</p>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mongodb,git,github,vercel&amp;theme=dark" alt="Node.js, Express, Supabase, PostgreSQL, MongoDB, Git, GitHub and Vercel" /></a>
+</p>
 
-**[Watch the demos and explore the case studies →](https://portfolio-gamma-lake-28.vercel.app/)**
+**Beyond the icons:** YOLO · ByteTrack · Pandas · NumPy · FAISS · rrweb
 
-## Tools I work with
+<details>
+<summary><strong>A little more about how I work</strong></summary>
+<br />
 
-| Area | Technologies |
-| --- | --- |
-| Computer vision & data | Python, YOLO, OpenCV, Pandas, NumPy |
-| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| Backend & storage | FastAPI, Node.js, Express, SQL, Supabase, MongoDB |
-| Development | Git, GitHub, REST APIs, Jupyter, Vercel |
+- Start with the problem and the result someone needs.
+- Connect the model or backend to a clear, usable interface.
+- Be explicit about what works, what is experimental, and what comes next.
+- Keep the handoff understandable with practical documentation.
 
-## Let's build something useful
+You can also explore my [Python forecasting learning project](https://github.com/AzeemAhmad123/Machine-Learning-Projects) and the [source for my portfolio](https://github.com/AzeemAhmad123/Portfolio).
 
-Have a computer vision prototype, analytics dashboard, or web app in mind? Share the problem you want to solve and the result you need. I value clear scope, realistic milestones, and a well-documented handoff.
+</details>
 
-**[View my work](https://portfolio-gamma-lake-28.vercel.app/)** · **[Discuss a project on Fiverr](https://www.fiverr.com/azeem_ahmadkhan)**
+---
+
+<p align="center">
+  <strong>Have a problem worth building for?</strong><br />
+  Computer vision prototypes · Analytics dashboards · Full-stack applications
+</p>
+<p align="center">
+  <a href="https://portfolio-gamma-lake-28.vercel.app/"><strong>See my work</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.fiverr.com/azeem_ahmadkhan"><strong>Let's talk about your project ↗</strong></a>
+</p>
+
