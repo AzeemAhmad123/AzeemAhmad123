@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="Computer vision, applied AI, and full-stack engineering">
+<rect width="1200" height="160" rx="18" fill="#101827"/>
+<g font-family="Arial,Helvetica,sans-serif"><path d="M402 30V130M802 30V130" stroke="#2a3750"/>
+<g transform="translate(30 30)"><text font-size="12" fill="#5eead4" letter-spacing="2">01 / COMPUTER VISION</text><text y="39" font-size="24" font-weight="700" fill="#f1f5fc">Make video useful.</text><text y="69" font-size="15" fill="#9eaec7">Detection · tracking · video analysis</text><text y="92" font-size="13" fill="#7187a6">Python / YOLO / OpenCV / FastAPI</text></g>
+<g transform="translate(431 30)"><text font-size="12" fill="#b8a6ff" letter-spacing="2">02 / APPLIED AI</text><text y="39" font-size="24" font-weight="700" fill="#f1f5fc">Find meaning in data.</text><text y="69" font-size="15" fill="#9eaec7">Semantic search · multimodal workflows</text><text y="92" font-size="13" fill="#7187a6">FAISS / embeddings / Whisper</text></g>
+<g transform="translate(831 30)"><text font-size="12" fill="#7dd3fc" letter-spacing="2">03 / FULL-STACK ENGINEERING</text><text y="39" font-size="24" font-weight="700" fill="#f1f5fc">Build the whole experience.</text><text y="69" font-size="15" fill="#9eaec7">Interfaces · APIs · analytics dashboards</text><text y="92" font-size="13" fill="#7187a6">React / TypeScript / Node.js / Supabase</text></g>
+</g></svg>
+
